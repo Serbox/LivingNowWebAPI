@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanl\\source\\repos\\LivingNowWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E01BE2B-7D30-459F-A9FA-7D35C7919EC8}|LivingNowWebAPI\\LivingNowWebAPI.csproj|c:\\users\\juanl\\source\\repos\\livingnowwebapi\\livingnowwebapi\\controllers\\accesodatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E01BE2B-7D30-459F-A9FA-7D35C7919EC8}|LivingNowWebAPI\\LivingNowWebAPI.csproj|solutionrelative:livingnowwebapi\\controllers\\accesodatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoDatosController.cs",
+              "DocumentMoniker": "C:\\Users\\juanl\\source\\repos\\LivingNowWebAPI\\LivingNowWebAPI\\Controllers\\AccesoDatosController.cs",
+              "RelativeDocumentMoniker": "LivingNowWebAPI\\Controllers\\AccesoDatosController.cs",
+              "ToolTip": "C:\\Users\\juanl\\source\\repos\\LivingNowWebAPI\\LivingNowWebAPI\\Controllers\\AccesoDatosController.cs",
+              "RelativeToolTip": "LivingNowWebAPI\\Controllers\\AccesoDatosController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:22:06.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
